@@ -28,3 +28,10 @@ myVariable ='Etienne';
 'Etienne'
 myVariable;
 'Etienne'
+
+
+
+<!-- return -->
+
+Note : L'instruction return indique au navigateur qu'il faut renvoyer la variable result en dehors de la fonction afin qu'elle puisse être réutilisée par ailleurs. Cette instruction est nécessaire car les variables définies à l'intérieur des fonctions sont uniquement disponibles à l'intérieur de ces fonctions. C'est ce qu'on appelle une portée (pour en savoir plus, lisez cet article).
+https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Grammar_and_types#les_port%c3%a9es_de_variables
