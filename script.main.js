@@ -37,3 +37,25 @@ button.addEventListener('click', event => {
 
 
 let myImage = document.querySelector('img');
+
+myImage.addEventListener('click',function(){
+
+})
+
+
+const monEntier = 5;
+const monFlottant = 6.667;
+monEntier;
+monFlottant;
+
+
+typeof monEntier;
+typeof monFlottant;
+
+const grandePartieDecimale = 1.766584958675746364;
+grandePartieDecimale;
+const partieDecimaleAdeuxChiffres = grandePartieDecimale.toFixed(2);
+partieDecimaleAdeuxChiffres;
+
+
+https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/JavaScript_basics#conclusion
